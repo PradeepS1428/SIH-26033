@@ -155,6 +155,8 @@ SMS or notification alerts.
 Online payment integration.
 
 Tamil and other regional language support.
+<img width="1536" height="1024" alt="Farm-to-Home Technical Approach" src="https://github.com/user-attachments/assets/35794084-31ac-435a-a42d-505a7e569c53" />
+
 
 ## Feasibility and Viability
 
